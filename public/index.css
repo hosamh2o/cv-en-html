@@ -1,0 +1,91 @@
+/** {
+	border: 1px solid red !important;
+}
+* {
+-webkit-box-sizing: bored-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+	box-sizing: border-box;
+
+}*/
+* {
+	padding: 0.77%;
+    padding-top: 0.5%;
+    padding-left:  0.5%;
+    padding-right: 0.5%;
+}
+.grid {
+	margin: 0 auto;
+	max-width: 1200px;
+	width: 100%;
+
+}
+.row {
+	width: 100%;
+	margin-bottom: 40px;
+	display: flex;
+	background-color:black;
+	border-radius: 10px;
+    opacity: .5;
+    margin-right: 30%;
+    margin-right: 40%;
+    background-image:url("pro.jpg");
+}
+body{
+
+    background-color: azure;
+    margin-left: 10px;
+}
+.col-2 {
+	width: 16.66%;
+
+}
+.col-3 {
+	width: 25%;
+    height: 10%;
+}
+.col-4 {
+	width: 33.33%;
+    height: auto;
+}
+.col-6 {
+	width: 50%;
+}
+.col-8 {
+	width: 66.66%;
+}
+img {
+	width: 100%;
+	border-radius: 20px;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	font-family: 'Courgette', cursive;
+	color: blue;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h2 {
+	font-family: 'Courgette', cursive;
+	color: blue;
+}
+h3 {
+	font-family: 'Courgette', cursive;
+	color: black;
+}
+p {
+	font-family: 'Lato', sans-serif;
+	color: black;
+    font-size: 14px;
+}
+li {
+	font-family: 'Lato', sans-serif;
+	color: black;
+    margin: auto;
+    padding-left: 2%;
+    font-size: 14px;
+    }
+}
