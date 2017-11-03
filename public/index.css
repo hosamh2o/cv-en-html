@@ -13,6 +13,7 @@
     padding-top: 0.5%;
     padding-left:  0.5%;
     padding-right: 0.5%;
+    font-variant-numeric: normal;
 }
 .grid {
 	margin: 0 auto;
@@ -24,12 +25,12 @@
 	width: 100%;
 	margin-bottom: 40px;
 	display: flex;
-	background-color:black;
+	background-color:white;
 	border-radius: 10px;
     opacity: .5;
     margin-right: 30%;
     margin-right: 40%;
-    background-image:url("pro.jpg");
+    background-image:url("mac.jpg");
 }
 body{
 
@@ -84,7 +85,7 @@ p {
 li {
 	font-family: 'Lato', sans-serif;
 	color: black;
-    margin: auto;
+    margin: 3%;
     padding-left: 2%;
     font-size: 14px;
     }
